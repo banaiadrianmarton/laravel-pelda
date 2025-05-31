@@ -1,0 +1,11 @@
+### 5. feladat
+GET http://localhost:8000/api/get-all-universities
+Accept: application/json
+
+### 6. feladat
+GET http://localhost:8000/api/get-stat
+Accept: application/json
+
+### 7. feladat
+DELETE  http://localhost:8000/api/delete-lector/10
+Accept: application/json
